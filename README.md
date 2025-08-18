@@ -3,15 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoomanabasi&label=Profile%20views&color=0e75b6&style=flat" alt="hoomanabasi" /> </p>
 <img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working in **Hoze Honari**
-
+- 🔭 I am currently open to collaborate on projects.
+  
 - 🌱 I’m currently learning **Deep learning**
-
-- 👯 I’m looking to collaborate on **Deep learning**
 
 - 👨‍💻 All of my projects are available at [t.me/portfolioHooman](t.me/portfolioHooman)
 
-- 💬 Ask me about **WordPress,ML,Photoshop**
+- 💬 Ask me about **DL,ML,NLP**
 
 - 📫 How to reach me **Hoomanabasiiii@gmail.com**
 
