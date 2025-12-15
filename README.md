@@ -5,7 +5,7 @@
 
 - 🔭 I am currently open to collaborate on projects.
   
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Ai Agents**
 
 - 👨‍💻 All of my projects are available at [t.me/portfolioHooman](t.me/portfolioHooman)
 
